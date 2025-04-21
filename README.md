@@ -3,6 +3,6 @@ The usage is quite simple, as shown in the following command.
 
 
 ```bash
-git clone https://github.com/JerrySongCST/Arabidopsis_root_cortex_cell_tracking.git && cd Arabidopsis_root_cortex_cell_tracking
+git clone https://github.com/JerrySongCST/pyblur_fixed.git && cd pyblur_fixed
 pip install -e .
 ```

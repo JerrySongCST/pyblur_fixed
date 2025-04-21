@@ -1,4 +1,5 @@
-This repository is a fixed version of pyblur package that is compatible with python3.X
+This repository is a fixed version of [pyblur](https://github.com/lospooky/pyblur) package that is compatible with python3.X.
+
 The usage is quite simple, as shown in the following command.
 
 
